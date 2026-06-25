@@ -127,7 +127,7 @@ const WISHES = [
    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
    Nomor WA untuk membalas pesan setelah lilin ditiup.
    Gunakan format internasional tanpa tanda + (contoh: 62812...) */
-const WHATSAPP_NUMBER = "6281234567890";   // ← GANTI NOMOR WA YANG ORDER
+const WHATSAPP_NUMBER = "6282276492532";   // ← GANTI NOMOR WA YANG ORDER
 const WHATSAPP_MESSAGE = "heyy aku baru buka botolnya, makasih banyak ya udah bikin hariku jadi jauh lebih baik! ✨"; // ← GANTI PESAN OTOMATIS
 
 window.OCEAN_SETTINGS = {
